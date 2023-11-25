@@ -48,12 +48,12 @@ body {
  border-right: 1px solid rgb(211, 235, 229);
  border-top: 1px solid rgb(207, 207, 207);
  text-align: center;
- text-shadow: -1px -1px 1px lightyellow;
+ text-shadow: -1px -1px 1px lightgray
  letter-spacing: 0.15em;
 }
  
  td {
- text-shadow: 1px 1px 1px lightyellow;
+ text-shadow: 1px 1px 1px lightgray;
 }
  
  tr.even td, tr.even th {
