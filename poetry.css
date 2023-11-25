@@ -17,12 +17,11 @@ body {
    margin-left: auto;
    margin-right: auto;
    text-align: center;
-   
- }
+   }
+
  table {
  border-spacing: 0px;
  background: none;
-   color:#000000;
  }
 
 
@@ -34,19 +33,20 @@ body {
 }
  
  th, td {
-color: gold;
+ color: beige;
  text-align: left;
  background: none;
- border-top: 1px solid gold;
- border-bottom: 1px solid gold;
- border-right: 1px solid gold;}
+ border-top: 1px solid rgb(226, 224, 218);
+ border-bottom: 1px solid rgb(211, 235, 229);
+ border-right: 1px solid rgb(207, 207, 207);
+ }
  
  tr.head th {
- color: goldenrod;
+ color: #DAE2E0;
  background: none;
- border-bottom: 2px solid gold;
- border-right: 1px solid gold;
- border-top: 1px solid gold;
+ border-bottom: 2px solid rgb(226, 224, 218);
+ border-right: 1px solid rgb(211, 235, 229);
+ border-top: 1px solid rgb(207, 207, 207);
  text-align: center;
  text-shadow: -1px -1px 1px lightyellow;
  letter-spacing: 0.15em;
@@ -54,7 +54,6 @@ color: gold;
  
  td {
  text-shadow: 1px 1px 1px lightyellow;
- color: gold;
 }
  
  tr.even td, tr.even th {
