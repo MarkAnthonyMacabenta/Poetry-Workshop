@@ -89,7 +89,8 @@ body {
 
  legend {
  font-style:italic;
- color:rgb(104, 104, 246);}
+ color: white;
+ }
 
  input[type="text"] {
  width: 120px;
