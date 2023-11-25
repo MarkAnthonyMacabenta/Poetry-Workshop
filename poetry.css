@@ -42,7 +42,7 @@ body {
  }
  
  tr.head th {
- color: #DAE2E0;
+ color: beige;
  background: none;
  border-bottom: 2px solid rgb(226, 224, 218);
  border-right: 1px solid rgb(211, 235, 229);
